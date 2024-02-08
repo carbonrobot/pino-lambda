@@ -17,7 +17,7 @@ It also automatically tracks the request id, correlation ids, and xray tracing f
 
 ## Usage
 
-Basic usage for most applications
+Basic usage for most applications TEST
 
 ```ts
 import pino from 'pino';
